@@ -1,0 +1,2 @@
+echo add to the new branch and also 
+add the status
